@@ -22,5 +22,5 @@ ARCJET_ENV=development
 # Run the API : 
 npm run dev
 
-#Run the frontend: 
+# Run the frontend: 
 cd frontend npm run dev
